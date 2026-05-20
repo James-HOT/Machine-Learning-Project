@@ -1,11 +1,5 @@
 # Shoe Brand Classification Project
 
-English | 繁體中文
-
----
-
-## English
-
 ### Overview
 
 This repository contains a machine learning project for shoe brand classification.
